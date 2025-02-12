@@ -1,0 +1,16 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+
+# Ignore logs
+*.log
+
+# Ignore dataset files
+*.csv
+*.xlsx
+*.json
