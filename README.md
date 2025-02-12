@@ -1,7 +1,7 @@
 # AI Projects
 🤖 AI Projects
 
-
+![My Brand Logo](logo.png)
 
 Welcome to the AI Projects repository! This collection showcases various Artificial Intelligence projects that explore machine learning, deep learning, and data-driven solutions. 🚀
 
@@ -109,10 +109,7 @@ Tools: Jupyter Notebook, VS Code, Git
 
 This repository is licensed under the MIT License.
 
-🔗 Connect With Me
+## 🔗 Connect With Me  
 
-
-
-🛡️ Your Brand | Innovation Through Code
-
-
+🌟 **Stay Inspired, Stay Innovative!** 🚀  
+Let's connect and build something amazing together! 
