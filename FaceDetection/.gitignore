@@ -1,0 +1,15 @@
+# Ignore cache & compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+
+# Ignore logs & temporary files
+*.log
+*.tmp
+
+# Ignore virtual environments
+venv/
