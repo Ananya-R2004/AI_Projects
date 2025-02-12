@@ -1,7 +1,7 @@
 # AI Projects
 🤖 AI Projects
 
-![My Brand Logo](logo.png)
+![My Brand Logo](logos/logo.png)
 
 Welcome to the AI Projects repository! This collection showcases various Artificial Intelligence projects that explore machine learning, deep learning, and data-driven solutions. 🚀
 
