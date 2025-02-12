@@ -1,7 +1,8 @@
 # AI Projects
 🤖 AI Projects
 
-![Crafted with excellence](logo.png)
+<img src="logo.png" alt="Crafted with excellence" width="100"/>
+
 
 Welcome to the AI Projects repository! This collection showcases various Artificial Intelligence projects that explore machine learning, deep learning, and data-driven solutions. 🚀
 
@@ -112,4 +113,4 @@ This repository is licensed under the MIT License.
 ## 🔗 Connect With Me  
 
 🌟 **Stay Inspired, Stay Innovative!** 🚀  
-Let's connect and build something amazing together! 
+    Let's connect and build something amazing together! 
