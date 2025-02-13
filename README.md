@@ -59,3 +59,10 @@ Follow these steps to set up and run any project:
 ### **1️⃣ Clone the Repository**  
 ```bash
 git clone https://github.com/Ananya-R2004/AI_Projects.git
+
+---
+
+## 🔗 Connect With Me
+
+🌟 **Stay Inspired, Stay Innovative!** 🚀  
+Let's connect and build something amazing together!
