@@ -52,17 +52,46 @@ Welcome to the **AI Projects** repository! This collection features a variety of
 
 ---
 
-## 🚀 Getting Started  
+## 🚀 Getting Started
 
-Follow these steps to set up and run any project:  
+Follow these steps to set up and run any project:
 
-### **1️⃣ Clone the Repository**  
+### **1️⃣ Clone the Repository**
+
 ```bash
 git clone https://github.com/Ananya-R2004/AI_Projects.git
+```
+
+### **2️⃣ Navigate to the Project Directory**
+
+```bash
+cd AI_Projects/Project_Name
+```
+
+### **3️⃣ Install Dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+### **4️⃣ Run the Project**
+
+```bash
+python main.py
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages:** Python\
+**Libraries & Frameworks:** NumPy, Pandas, OpenCV\
+**Tools:** Jupyter Notebook, VS Code, Git
 
 ---
 
 ## 🔗 Connect With Me
 
-🌟 **Stay Inspired, Stay Innovative!** 🚀  
+🌟 **Stay Inspired, Stay Innovative!** 🚀\
 Let's connect and build something amazing together!
+
